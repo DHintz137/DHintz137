@@ -1,7 +1,7 @@
 <h1 align="center"> Daniel Hintz </h1>
 
 <p align="center">
-  Hi there! I'm Daniel, a graduate student at the University of Wyoming pursuing an MS in Statistics. I'm passionate about using data and statistical methods to solve real-world problems. Below are just some of my strengths:
+  Hi there! I'm Daniel, and I am a graduate student at the University of Wyoming pursuing an MS in Statistics. I'm passionate about using data and statistical methods to solve real-world problems. Below are just some of my strengths:
 </p>
 
 <h2 align="center">💻 Applied Skills</h2>
