@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💼 Daniel Hintz - Data Scientist and Statistician</h1>
+<h1 align="center"> Daniel Hintz - Data Scientist and Statistician</h1>
 
 <p align="center">
   Hi there! I'm Daniel, a graduate student at the University of Wyoming pursuing an MS in Statistics. I'm passionate about using data and statistical methods to solve real-world problems. Here are some of my strengths:
@@ -19,14 +19,18 @@
 </p>
 
 <p align="center">
-  <strong>R:</strong> I'm experienced in using loops, apply functions, writing functions, package development, shiny, and data wrangling and data visualization.<br>
-  <strong>Geospatial statistics and analysis:</strong> I'm comfortable using R packages like raster, mapview, terra, sp, sf, maps, prism, and have some exposure to the packages maptools, tmap, tmaptools, gstat, geoR, geostatsp, spatstat, spdep, mapproj, and spaMM.<br>
-  <strong>Python:</strong> I'm proficient with pandas, scikit-learn, keras, tensorflow, data wrangling, visualization, exploratory data analysis, and comfortable with IDE's (VSCode, PyCharm, Jupyter notebooks).<br>
-  <strong>Production Code:</strong> I have experience using nextflow, UNIX, git, conda environments, docker, singularity.<br>
-  <strong>Modeling and Inference:</strong> I'm experienced in Design and Analysis of Experiments, Multivariate Statistics, Data Mining, Unsupervised Machine Learning, Supervised Machine Learning, General Linear Models, Bootstrapping, Time Series, Random Forests, Support Vector Machines, and Artificial Neural Networks.
+  R: I'm experienced in using loops, apply functions, writing functions, package development, shiny, and data wrangling and data visualization.<br>
+  Geospatial statistics and analysis: I'm comfortable using R packages like raster, mapview, terra, sp, sf, maps, prism, and have some exposure to the packages maptools, tmap, tmaptools, gstat, geoR, geostatsp, spatstat, spdep, mapproj, and spaMM.<br>
+  Python: I'm proficient with pandas, scikit-learn, keras, tensorflow, data wrangling, visualization, exploratory data analysis, and comfortable with IDE's (VSCode, PyCharm, Jupyter notebooks).<br>
+  Production Code: I have experience using nextflow, UNIX, git, conda environments, docker, singularity.<br>
+  Modeling and Inference: I'm experienced in Design and Analysis of Experiments, Multivariate Statistics, Data Mining, Unsupervised Machine Learning, Supervised Machine Learning, General Linear Models, Bootstrapping, Time Series, Random Forests, Support Vector Machines, and Artificial Neural Networks.
 </p>
 
-<h2 align="center">
+<h2 align="center"> 💼 Work Experience</h2>
+
+<p align="center">
+  <strong>RA Project:</
+
 
 
 
