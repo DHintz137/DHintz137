@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker badge" />
   <img src="https://img.shields.io/badge/-Nextflow-00BFFF?style=flat-square&logo=Nextflow&logoColor=white" alt="Nextflow badge" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=SQL&logoColor=white" alt="SQL badge" />
   <img src="https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=UNIX&logoColor=white" alt="UNIX badge" />
   <img src="https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=Conda&logoColor=white" alt="Conda badge" />
   <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio badge" />
