@@ -7,6 +7,10 @@
 <h2 align="center">💻 Applied Skills</h2>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-Statistics-007ACC?style=flat-square&logo=R&logoColor=white" alt="Statistics badge" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Machine Learning badge" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="Deep Learning badge" />
+  <img src="https://img.shields.io/badge/-Data%20Visualization-FFC20A?style=flat-square&logo=Tableau&logoColor=white" alt="Data Visualization badge" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R badge" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python badge" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git badge" />
