@@ -24,20 +24,24 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter badge" />
 </p>
 
-			             __/)
-			          .-(__(=:
+```
+			       __/)
+			    .-(__(=:
 	      		    |    \)
 		      (\__  | 
 		     :=)__)-|
 		      (/    |  __/)
-			          |-(__(=:
-	      ______  |  _ \) 
+			    |-(__(=:
+	      	    ______  |  _ \) 
 		   /      \ | / \
-		  	    ___\|/___\
+		  	___\|/___\
 		       [         ]\
-	          \      	/  \
-			       \     /
-			        \___/
+			\	/  \
+			 \     /
+			  \___/
+
+```
+		       
 <!--
 <h2 align="center"> 💼 Work Experience</h2>
 
