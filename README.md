@@ -26,18 +26,18 @@
 
 
 ```
-           .          .           .     .                .       .
-  .      .      *           .       .          .                       .
-                 .       .   . *  "The future of life on Earth depends 
-  .       ____     .      . .         .  on our ability to see the sacred
-         >>         .        .             .   where others see only the common"
- .   .  /WWWI; \  .       .    .  ____               .         .     .         
+     *     .          .    .      .     .                .       *         .           .             .
+  .      .      *             *     .          .                       .                     .     *
+      .          .       .   .   "The future of life on Earth depends      .               *       .
+  .       ____     .      .           .  on our ability to see the sacred          *    .              .
+         >>         .        *            .   where others see only the common"   .          .  *
+ .   .  /WWWI; \  .       .    .  ____               .         .     .                   .         .
   *    /WWWWII; \=====;    .     /WI; \   *    .        /\_             .  *   .   /\        .        .
   .   /WWWWWII;..      \_  . ___/WI;:. \     .        _/M; \    .   .       .   __/W;\   .     *    
      /WWWWWIIIIi;..      \__/WWWIIII:.. \____ .   .  /MMI:  \   * .            /WWWI; \___          .
  . _/WWWWWIIIi;;;:...:   ;\WWWWWWIIIII;.     \     /MMWII;   \    .  .     .  /WWWWI;..   \   .      *       
   /WWWWWIWIiii;;;.:.. :   ;\WWWWWIII;;;::     \___/MMWIIII;   \            __/WWWWII;..:  ;\       .  
- /WWWWWIIIIiii;;::.... :   ;|WWWWWWII;;::.:      :;IMWIIIII;:   \___   *  /WWWWWWWWII;..:  ;\    .
+ /WWWWWIIIIiii;;::.... :   ;|WWWWWWII;;::.:      :;IMWIIIII;:   \___   *  /WWWWWWWWII;..:  ;\    .   
 /WWWWWWWWWIIIIIWIIii;;::;..;\WWWWWWIII;;;:::...    ;IMIII;;     ::  \    /WWWWWWWWIIIII;.:  ;\     *
 WWWWWWWWWIIIIIIIIIii;;::.;..;\WWWWWWWWIIIII;;..  :;IMIII;:::     :    \ /WWWW;;   ;IMI;;      \__     .
 WWWWWWWWWWWWWIIIIIIii;;::..;..;\WWWWWWWWIIII;::; :::::::::.....::       WWWWWWW;; ::::::...::    \
