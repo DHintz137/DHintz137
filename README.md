@@ -1,7 +1,11 @@
-<h1 align="center"> Daniel Hintz </h1>
+<h3>
+    <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/>
+     Hey, nice to see you here!
+    <img align="right" src="https://views.whatilearened.today/views/github/artu-hnrq/artu-hnrq.svg?cache=remove"/>
+</h3>
 
 <p align="center">
-  Hi there! I'm Daniel, and I am a graduate student at the University of Wyoming pursuing an MS in Statistics. I'm passionate about using data and statistical methods to solve real-world problems. Below are just some of my strengths:
+  I'm Daniel, a biostatistician and data scientist. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using data and statistical methods to solve real-world problems. Here are some of my key strengths:
 </p>
 
 <h2 align="center">💻 Applied Skills</h2>
