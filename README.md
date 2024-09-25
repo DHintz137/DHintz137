@@ -5,13 +5,14 @@
 </h3>
 
 <p align="center">
-  I'm Daniel, a biostatistician and data scientist. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using data and statistical methods to solve real-world problems. Here are some of my key strengths:
+  I'm Daniel; I'm a biostatistician and data scientist from New Zealand 🇳🇿, and I am working in the US on OPT. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using data and statistical methods to solve real-world problems. Here are some of my key strengths:
 </p>
 
 <h2 align="center">💻 Applied Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Statistics-007ACC?style=flat-square&logo=R&logoColor=white" alt="Statistics badge" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch badge" />
   <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Machine Learning badge" />
   <img src="https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="Deep Learning badge" />
   <img src="https://img.shields.io/badge/-Data%20Visualization-FFC20A?style=flat-square&logo=Tableau&logoColor=white" alt="Data Visualization badge" />
