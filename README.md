@@ -1,7 +1,7 @@
 <h3>
     <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/>
      Hey, nice to see you here!
-    <img align="right" src="https://views.whatilearened.today/views/github/artu-hnrq/artu-hnrq.svg?cache=remove"/>
+    <img align="right" src="https://views.whatilearened.today/views/github/DHintz137/DHintz137.svg?cache=remove"/>
 </h3>
 
 <p align="center">
