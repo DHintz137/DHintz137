@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  I'm Daniel; I'm a biostatistician and data scientist from New Zealand 🇳🇿, and I am working in the US on OPT. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using data and statistical methods to solve real-world problems. Here are some of my key strengths:
+  I'm Daniel; I'm a biostatistician and data scientist from New Zealand 🇳🇿, and I am working in the US on OPT. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using AI and statistical methods to solve real-world problems. Here are some of my key strengths:
 </p>
 
 <h2 align="center">💻 Applied Skills</h2>
