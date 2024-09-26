@@ -30,6 +30,14 @@
 </p>
 
 
+
+<!-- Add the following when my score is better -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DHintz137)](https://git.io/streak-stats) -->
+<!--
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=DHintz137&show_icons=true&count_private=true&hide_border=true&hide=stars&theme=gruvbox" />
+-->
+
+
 ```
      *     .          .    .      .     .                .       *         .           .             .
   .      .      *             *     .          .                       .                     .     *
