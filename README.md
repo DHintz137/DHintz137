@@ -42,7 +42,7 @@
   <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="50"/>
   <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
   <img src="./logos/aws.svg" alt="AWS" height="50"/>
-  <img src="./logos/jupyter.svg" alt="Jupyter" height="50"/>
+  <img src="./logos/Jupyter.svg" alt="Jupyter" height="50"/>
   <img src="./logos/Docker.png" alt="Docker" height="50"/>
   <img src="./logos/Nextflow.png" alt="Nextflow" height="50"/>
   <img src="./logos/R.svg" alt="R" height="50"/>
