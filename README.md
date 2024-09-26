@@ -35,7 +35,7 @@
   <img src="./logos/PyTorch.svg" alt="PyTorch" height="50"/>
   <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
   <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50"/>
-  <img src="./logos/sql.png" alt="SQL" height="100"/>
+  <img src="./logos/sql.png" alt="SQL" height="50"/>
   <img src="./logos/Conda.svg" alt="Conda" height="50"/>
   <img src="./logos/Github.png" alt="GitHub" height="50"/>
   <img src="./logos/Python.png" alt="Python" height="50"/>
