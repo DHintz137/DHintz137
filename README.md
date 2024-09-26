@@ -35,7 +35,9 @@
   <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
 </p>
 
-
+<!--
+Note to self: the repo photo was created using dzine.ai with the style "Flamenco Dance" with auto prompt. A gray filter was then added after in apple photos. The circle crop was applied using adobe from https://new.express.adobe.com.
+-->
 
 
 <!-- Add the following when my score is better -->
