@@ -30,22 +30,22 @@
 </p>
 
 <p align="right">
-  <img src="./logos/Bash.png" alt="Bash" width="50"/>
-  <img src="./logos/Git.png" alt="Git" width="50"/>
-  <img src="./logos/PyTorch.svg" alt="PyTorch" width="50"/>
-  <img src="./logos/RStudio.svg" alt="RStudio" width="50"/>
-  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" width="50"/>
-  <img src="./logos/sql.png" alt="SQL" width="50"/>
-  <img src="./logos/Conda.svg" alt="Conda" width="50"/>
-  <img src="./logos/Github.png" alt="GitHub" width="50"/>
-  <img src="./logos/Python.png" alt="Python" width="50"/>
-  <img src="./logos/TensorFlow.svg" alt="TensorFlow" width="50"/>
-  <img src="./logos/Ubuntu.png" alt="Ubuntu" width="50"/>
-  <img src="./logos/aws.svg" alt="AWS" width="50"/>
-  <img src="./logos/jupyter.svg" alt="Jupyter" width="50"/>
-  <img src="./logos/Docker.png" alt="Docker" width="50"/>
-  <img src="./logos/Nextflow.png" alt="Nextflow" width="50"/>
-  <img src="./logos/R.svg" alt="R" width="50"/>
+  <img src="./logos/Bash.png" alt="Bash" height="50"/>
+  <img src="./logos/Git.png" alt="Git" height="50"/>
+  <img src="./logos/PyTorch.svg" alt="PyTorch" height="50"/>
+  <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
+  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50"/>
+  <img src="./logos/sql.png" alt="SQL" height="100"/>
+  <img src="./logos/Conda.svg" alt="Conda" height="50"/>
+  <img src="./logos/Github.png" alt="GitHub" height="50"/>
+  <img src="./logos/Python.png" alt="Python" height="50"/>
+  <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="50"/>
+  <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
+  <img src="./logos/aws.svg" alt="AWS" height="50"/>
+  <img src="./logos/jupyter.svg" alt="Jupyter" height="50"/>
+  <img src="./logos/Docker.png" alt="Docker" height="50"/>
+  <img src="./logos/Nextflow.png" alt="Nextflow" height="50"/>
+  <img src="./logos/R.svg" alt="R" height="50"/>
 </p>
 
 
