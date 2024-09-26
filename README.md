@@ -17,8 +17,8 @@
 <p align="center">
   <img src="./logos/Python.png" alt="Python" height="50"/>
   <img src="./logos/PyTorch.svg" alt="PyTorch" height="60"/>
-  <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="80"/>
-  <img src="./logos/Conda.svg" alt="Conda" height="25"/>
+  <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="90"/>
+  <img src="./logos/Conda.svg" alt="Conda" height="35"/>
   <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50"/>
   <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="background-color: white; padding: 5px;"/>
   <img src="./logos/Bash.png" alt="Bash" height="50"/>
@@ -30,7 +30,7 @@
   <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
   <img src="./logos/aws.svg" alt="AWS" height="50" style="background-color: white; padding: 5px;"/>
   <img src="./logos/Docker.png" alt="Docker" height="50"/>
-  <img src="./logos/Nextflow.png" alt="Nextflow" height="30"/>
+  <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
 </p>
 
 
