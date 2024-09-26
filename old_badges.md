@@ -1,0 +1,18 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/-Statistics-007ACC?style=flat-square&logo=R&logoColor=white" alt="Statistics badge" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch badge" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Machine Learning badge" />
+  <img src="https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square&logo=PyTorch&logoColor=white" alt="Deep Learning badge" />
+  <img src="https://img.shields.io/badge/-Data%20Visualization-FFC20A?style=flat-square&logo=Tableau&logoColor=white" alt="Data Visualization badge" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git badge" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker badge" />
+  <img src="https://img.shields.io/badge/-Nextflow-00BFFF?style=flat-square&logo=Nextflow&logoColor=white" alt="Nextflow badge" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=SQL&logoColor=white" alt="SQL badge" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" alt="AWS badge" />
+  <img src="https://img.shields.io/badge/-UNIX-000000?style=flat-square&logo=UNIX&logoColor=white" alt="UNIX badge" />
+  <img src="https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=Conda&logoColor=white" alt="Conda badge" />
+  <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white" alt="RStudio badge" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter badge" />
+</p>
