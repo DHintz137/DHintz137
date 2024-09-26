@@ -29,6 +29,26 @@
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white" alt="Jupyter badge" />
 </p>
 
+<p align="right">
+  <img src="./logos/Bash.png" alt="Bash" width="50"/>
+  <img src="./logos/Git.png" alt="Git" width="50"/>
+  <img src="./logos/PyTorch.svg" alt="PyTorch" width="50"/>
+  <img src="./logos/RStudio.svg" alt="RStudio" width="50"/>
+  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" width="50"/>
+  <img src="./logos/sql.png" alt="SQL" width="50"/>
+  <img src="./logos/Conda.svg" alt="Conda" width="50"/>
+  <img src="./logos/Github.png" alt="GitHub" width="50"/>
+  <img src="./logos/Python.png" alt="Python" width="50"/>
+  <img src="./logos/TensorFlow.svg" alt="TensorFlow" width="50"/>
+  <img src="./logos/Ubuntu.png" alt="Ubuntu" width="50"/>
+  <img src="./logos/aws.svg" alt="AWS" width="50"/>
+  <img src="./logos/jupyter.svg" alt="Jupyter" width="50"/>
+  <img src="./logos/Docker.png" alt="Docker" width="50"/>
+  <img src="./logos/Nextflow.png" alt="Nextflow" width="50"/>
+  <img src="./logos/R.svg" alt="R" width="50"/>
+</p>
+
+
 
 
 <!-- Add the following when my score is better -->
