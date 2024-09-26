@@ -25,8 +25,9 @@
   <img src="./logos/Bash.png" alt="Bash" height="50"/>
   <img src="./logos/Git.png" alt="Git" height="50"/>
   <img src="./logos/Github.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
-  <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
   <img src="./logos/R.svg" alt="R" height="50"/>
+  <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
+  <img src="./logos/SAS.svg" alt="SAS" height="50"/>
   <img src="./logos/sql.png" alt="SQL" height="50"/>
   <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
   <img src="./logos/aws.svg" alt="AWS" height="50" style="background-color: white; padding: 5px;"/>
