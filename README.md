@@ -8,7 +8,7 @@
   I'm Daniel; I'm a biostatistician and data scientist from New Zealand 🇳🇿, and I am working in the US on OPT. I recently graduated with an MS in Statistics from the University of Wyoming, and I'm passionate about using AI and statistical methods to solve real-world problems. Here are some of my key strengths:
 </p>
 
-<h2 align="center">
+<h2 align="center" style="font-size: 36px;">
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
     Programming Languages & Tools
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
