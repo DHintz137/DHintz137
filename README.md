@@ -18,7 +18,7 @@ Past Employers/Collaborators
 </h2>
 
 <p align="center">
-  <img src="./logos/argonne_logo.png" alt="Argonne" height="60"/>
+  <img src="./logos/argonne_logo.png" alt="Argonne" height="60" style="padding: 6px;"/>
   <img src="./logos/GuardantHealth_logo.jpg" alt="GuardantHealth" height="60"/>
   <img src="./logos/WPHL_logo.png" alt="WPHL" height="50" style="padding: 5px;"/>
   <img src="./logos/WEST_logo.jpg" alt="WEST" height="55" style="padding: 5px;"/>
@@ -32,22 +32,22 @@ Past Employers/Collaborators
 </h2>
 
 <p align="center">
-  <img src="./logos/Python.png" alt="Python" height="50"/>
+  <img src="./logos/Python.png" alt="Python" height="50" style="padding: 6px;"/>
   <img src="./logos/PyTorch.svg" alt="PyTorch" height="60"/>
   <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="90"/>
   <img src="./logos/Conda.svg" alt="Conda" height="35"/>
-  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50"/>
-  <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="background-color: white; padding: 5px;"/>
-  <img src="./logos/Bash.png" alt="Bash" height="50"/>
-  <img src="./logos/Git.png" alt="Git" height="50"/>
+  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50" style="padding: 5px;"/>
+  <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="padding: 6px;"/>
+  <img src="./logos/Bash.png" alt="Bash" height="50" style="padding: 6px;"/>
+  <img src="./logos/Git.png" alt="Git" height="50" style="padding: 6px;"/>
   <img src="./logos/github_logo.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
-  <img src="./logos/R.svg" alt="R" height="50"/>
-  <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
-  <img src="./logos/SAS.svg" alt="SAS" height="50"/>
-  <img src="./logos/sql.png" alt="SQL" height="50"/>
-  <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
-  <img src="./logos/aws_logo.png" alt="AWS" height="50" style="background-color: white; padding: 5px;"/>
-  <img src="./logos/Docker.png" alt="Docker" height="50"/>
+  <img src="./logos/R.svg" alt="R" height="50" style="padding: 6px;"/>
+  <img src="./logos/RStudio.svg" alt="RStudio" height="50" style="padding: 6px;"/>
+  <img src="./logos/SAS.svg" alt="SAS" height="50" style="padding: 6px;"/>
+  <img src="./logos/sql.png" alt="SQL" height="50" style="padding: 6px;"/>
+  <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50" style="padding: 6px;"/>
+  <img src="./logos/aws_logo.png" alt="AWS" height="50" style="background-color: white; padding: 6px;"/>
+  <img src="./logos/Docker.png" alt="Docker" height="50" style="padding: 6px;"/>
   <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
 </p>
 
