@@ -19,9 +19,9 @@ Past Employers/Collaborators
 
 <p align="center">
   <img src="./logos/argonne_logo.png" alt="Argonne" height="60" style="padding: 6px;"/>
-  <img src="./logos/GuardantHealth_logo.jpg" alt="GuardantHealth" height="60"/>
+  <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" height="60"/>
   <img src="./logos/WPHL_logo.png" alt="WPHL" height="50" style="padding: 5px;"/>
-  <img src="./logos/WEST_logo.jpg" alt="WEST" height="55" style="padding: 5px;"/>
+  <img src="./logos/WEST_logo.png" alt="WEST" height="55" style="padding: 5px;"/>
   <img src="./logos/ARCC_logo.png" alt="ARCC" height="60"/>
 </p>
 
