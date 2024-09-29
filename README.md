@@ -9,11 +9,27 @@
 </p>
 
 <h2 align="center" style="font-size: 36px;">
-    <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
+Past Employers/Collaborators 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+</picture>
+
+</h2>
+
+<p align="center">
+  <img src="./logos/argonne_logo.png" alt="Argonne" height="60"/>
+  <img src="./logos/GuardantHealth_logo.jpg" alt="GuardantHealth" height="60"/>
+  <img src="./logos/WPHL_logo.png" alt="WPHL" height="50" style="padding: 5px;"/>
+  <img src="./logos/WEST_logo.jpg" alt="WEST" height="55" style="padding: 5px;"/>
+  <img src="./logos/ARCC_logo.png" alt="ARCC" height="60"/>
+</p>
+
+
+<h2 align="center" style="font-size: 36px;">
     Programming Languages & Tools
     <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/>
 </h2>
-
 
 <p align="center">
   <img src="./logos/Python.png" alt="Python" height="50"/>
@@ -24,13 +40,13 @@
   <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="background-color: white; padding: 5px;"/>
   <img src="./logos/Bash.png" alt="Bash" height="50"/>
   <img src="./logos/Git.png" alt="Git" height="50"/>
-  <img src="./logos/Github.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
+  <img src="./logos/github_logo.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
   <img src="./logos/R.svg" alt="R" height="50"/>
   <img src="./logos/RStudio.svg" alt="RStudio" height="50"/>
   <img src="./logos/SAS.svg" alt="SAS" height="50"/>
   <img src="./logos/sql.png" alt="SQL" height="50"/>
   <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50"/>
-  <img src="./logos/aws.svg" alt="AWS" height="50" style="background-color: white; padding: 5px;"/>
+  <img src="./logos/aws_logo.png" alt="AWS" height="50" style="background-color: white; padding: 5px;"/>
   <img src="./logos/Docker.png" alt="Docker" height="50"/>
   <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
 </p>
