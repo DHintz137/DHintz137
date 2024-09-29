@@ -10,10 +10,7 @@
 
 <h2 align="center" style="font-size: 36px;">
 Past Employers/Collaborators 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
-</picture>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="32"/>
 </h2>
 
 <p align="center">
