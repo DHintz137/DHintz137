@@ -13,12 +13,12 @@ Past Employers/Collaborators
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="32"/>
 </h2>
 
-<p align="center">
-  <img src="./logos/argonne_logo.png" alt="Argonne" height="60" style="padding: 6px;"/>
-  <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" height="60"/>
-  <img src="./logos/WPHL_logo.png" alt="WPHL" height="50" style="padding: 5px;"/>
-  <img src="./logos/WEST_logo.png" alt="WEST" height="55" style="padding: 5px;"/>
-  <img src="./logos/ARCC_logo.png" alt="ARCC" height="60"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="./logos/argonne_logo.png" alt="Argonne" style="max-height: 70px; vertical-align: middle;"/>
+  <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" style="max-height: 70px; vertical-align: middle;"/>
+  <img src="./logos/WPHL_logo.png" alt="WPHL" style="max-height: 70px; vertical-align: middle;"/>
+  <img src="./logos/WEST_logo.png" alt="WEST" style="max-height: 70px; vertical-align: middle;"/>
+  <img src="./logos/ARCC_logo.png" alt="ARCC" style="max-height: 70px; vertical-align: middle;"/>
 </p>
 
 
