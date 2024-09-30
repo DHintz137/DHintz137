@@ -96,13 +96,10 @@
 
 <h2 align="center" style="font-size: 25px;">
     Languages Used in Github Repos
-    <picture>
-        <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" alt="octocat" width="40" height="40">
-    </picture>
 </h2>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8"> 
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua,rebol&theme=dark&langs_count=8"> 
 </p>
 
 
