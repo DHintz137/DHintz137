@@ -9,8 +9,11 @@
 </p>
 
 <h2 align="center" style="font-size: 36px;">
-Past Employers/Collaborators 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="32"/>
+  Past Employers/Collaborators 
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
+  </picture>
 </h2>
 
 <p align="center" style="text-align: center;">
@@ -98,8 +101,8 @@ Past Employers/Collaborators
     </picture>
 </h2>
 
-<div style="display: flex; justify-content: center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" />
+<div style="width: 100%; display: block;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" style="display: block; margin: 0 auto;" />
 </div>
 
 
