@@ -101,9 +101,9 @@
     </picture>
 </h2>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" />
-</div>
+<p align="center" width="100%">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8"> 
+</p>
 
 
 
