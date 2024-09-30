@@ -14,13 +14,22 @@ Past Employers/Collaborators
 </h2>
 
 <p align="center" style="text-align: center;">
-  <img src="./logos/argonne_logo.png" alt="Argonne" style="height: 70px; width: auto;"/>
-  <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" style="height: 70px; width: auto;"/>
-  <img src="./logos/WPHL_logo.png" alt="WPHL" style="height: 70px; width: auto;"/>
-  <img src="./logos/WEST_logo.png" alt="WEST" style="height: 70px; width: auto;"/>
-  <img src="./logos/ARCC_logo.png" alt="ARCC" style="height: 70px; width: auto;"/>
+  <a href="https://www.anl.gov" target="_blank">
+    <img src="./logos/argonne_logo.png" alt="Argonne" style="height: 70px; width: auto;"/>
+  </a>
+  <a href="https://www.guardanthealth.com" target="_blank">
+    <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" style="height: 70px; width: auto;"/>
+  </a>
+  <a href="https://health.wyo.gov/publichealth/lab/" target="_blank">
+    <img src="./logos/WPHL_logo.png" alt="WPHL" style="height: 70px; width: auto;"/>
+  </a>
+  <a href="https://west-inc.com" target="_blank">
+    <img src="./logos/WEST_logo.png" alt="WEST" style="height: 70px; width: auto;"/>
+  </a>
+  <a href="https://www.uwyo.edu/arcc/index.html" target="_blank">
+    <img src="./logos/ARCC_logo.png" alt="ARCC" style="height: 70px; width: auto;"/>
+  </a>
 </p>
-
 
 
 <h2 align="center" style="font-size: 36px;">
@@ -29,24 +38,69 @@ Past Employers/Collaborators
 </h2>
 
 <p align="center">
-  <img src="./logos/Python.png" alt="Python" height="50" style="padding: 6px;"/>
-  <img src="./logos/PyTorch.svg" alt="PyTorch" height="60"/>
-  <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="90"/>
-  <img src="./logos/Conda.svg" alt="Conda" height="35"/>
-  <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50" style="padding: 5px;"/>
-  <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="padding: 6px;"/>
-  <img src="./logos/Bash.png" alt="Bash" height="50" style="padding: 6px;"/>
-  <img src="./logos/Git.png" alt="Git" height="50" style="padding: 6px;"/>
-  <img src="./logos/github_logo.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
-  <img src="./logos/R.svg" alt="R" height="50" style="padding: 6px;"/>
-  <img src="./logos/RStudio.svg" alt="RStudio" height="50" style="padding: 6px;"/>
-  <img src="./logos/SAS.svg" alt="SAS" height="50" style="padding: 6px;"/>
-  <img src="./logos/sql.png" alt="SQL" height="50" style="padding: 6px;"/>
-  <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50" style="padding: 6px;"/>
-  <img src="./logos/aws_logo.png" alt="AWS" height="50" style="background-color: white; padding: 6px;"/>
-  <img src="./logos/Docker.png" alt="Docker" height="50" style="padding: 6px;"/>
-  <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="./logos/Python.png" alt="Python" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://pytorch.org" target="_blank">
+    <img src="./logos/PyTorch.svg" alt="PyTorch" height="60"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank">
+    <img src="./logos/TensorFlow.svg" alt="TensorFlow" height="90"/>
+  </a>
+  <a href="https://docs.conda.io/en/latest/" target="_blank">
+    <img src="./logos/Conda.svg" alt="Conda" height="35"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="./logos/Visual_Studio_Code.svg" alt="Visual Studio Code" height="50" style="padding: 5px;"/>
+  </a>
+  <a href="https://jupyter.org" target="_blank">
+    <img src="./logos/Jupyter.svg" alt="Jupyter" height="60" style="padding: 6px;"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="./logos/Bash.png" alt="Bash" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="./logos/Git.png" alt="Git" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="./logos/github_logo.png" alt="GitHub" height="50" style="background-color: white; padding: 5px;"/>
+  </a>
+  <a href="https://www.r-project.org" target="_blank">
+    <img src="./logos/R.svg" alt="R" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://posit.co" target="_blank">
+    <img src="./logos/RStudio.svg" alt="RStudio" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://www.sas.com/en_us/home.html" target="_blank">
+    <img src="./logos/SAS.svg" alt="SAS" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://www.w3schools.com/sql/" target="_blank">
+    <img src="./logos/sql.png" alt="SQL" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://ubuntu.com" target="_blank">
+    <img src="./logos/Ubuntu.png" alt="Ubuntu" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="./logos/aws_logo.png" alt="AWS" height="50" style="background-color: white; padding: 6px;"/>
+  </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="./logos/Docker.png" alt="Docker" height="50" style="padding: 6px;"/>
+  </a>
+  <a href="https://www.nextflow.io" target="_blank">
+    <img src="./logos/Nextflow.png" alt="Nextflow" height="35"/>
+  </a>
 </p>
+
+<h2 align="center" style="font-size: 25px;">
+    Language Use by Github Repos
+    <img src="https://camo.githubusercontent.com/f3b4654c95bc61462e67c74fdd40e0bf142418869046918dec5f1f2be69e6782/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="30"/>
+</h2>
+
+<div style="text-align: center;">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" />
+</div>
+
+
 
 <!--
 Note to self: the repo photo was created using dzine.ai with the style "Flamenco Dance" with auto prompt. A gray filter was then added after in apple photos. The circle crop was applied using adobe from https://new.express.adobe.com.
