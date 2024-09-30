@@ -15,22 +15,21 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="32" height="32">
   </picture>
 </h2>
-
 <p align="center" style="text-align: center;">
-  <a href="https://www.anl.gov" target="_blank" style="text-decoration: none;">
-    <img src="./logos/argonne_logo.png" alt="Argonne" style="height: 70px; width: auto;"/>
+  <a href="https://www.anl.gov" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="./logos/argonne_logo.png" alt="Argonne" style="height: 70px; width: auto; vertical-align: middle;"/>
   </a>
-  <a href="https://www.guardanthealth.com" target="_blank" style="text-decoration: none;">
-    <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" style="height: 70px; width: auto;"/>
+  <a href="https://www.guardanthealth.com" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="./logos/GuardantHealth_logo.png" alt="GuardantHealth" style="height: 70px; width: auto; vertical-align: middle;"/>
   </a>
-  <a href="https://health.wyo.gov/publichealth/lab/" target="_blank" style="text-decoration: none;">
-    <img src="./logos/WPHL_logo.png" alt="WPHL" style="height: 70px; width: auto;"/>
+  <a href="https://health.wyo.gov/publichealth/lab/" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="./logos/WPHL_logo.png" alt="WPHL" style="height: 70px; width: auto; vertical-align: middle;"/>
   </a>
-  <a href="https://west-inc.com" target="_blank" style="text-decoration: none;">
-    <img src="./logos/WEST_logo.png" alt="WEST" style="height: 70px; width: auto;"/>
+  <a href="https://west-inc.com" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="./logos/WEST_logo.png" alt="WEST" style="height: 70px; width: auto; vertical-align: middle;"/>
   </a>
-  <a href="https://www.uwyo.edu/arcc/index.html" target="_blank" style="text-decoration: none;">
-    <img src="./logos/ARCC_logo.png" alt="ARCC" style="height: 70px; width: auto;"/>
+  <a href="https://www.uwyo.edu/arcc/index.html" target="_blank" style="text-decoration: none; line-height: 0;">
+    <img src="./logos/ARCC_logo.png" alt="ARCC" style="height: 70px; width: auto; vertical-align: middle;"/>
   </a>
 </p>
 
