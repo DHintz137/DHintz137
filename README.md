@@ -92,13 +92,14 @@ Past Employers/Collaborators
 </p>
 
 <h2 align="center" style="font-size: 25px;">
-    Language Use by Github Repos
-    <img src="https://camo.githubusercontent.com/f3b4654c95bc61462e67c74fdd40e0bf142418869046918dec5f1f2be69e6782/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966" width="30"/>
+    Languages Used in Github Repos
+    <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="45"/>
 </h2>
 
 <div style="text-align: center;">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHintz137&size_weight=0.5&count_weight=0.5&layout=compact&hide=javascript,css,scss,html,lua&theme=dark&langs_count=8" style="display: block; margin: 0 auto;"/>
 </div>
+
 
 
 
